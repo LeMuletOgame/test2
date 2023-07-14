@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         skip_check_available_missions_16
-// @namespace    http://tampermonkey.net/
+// @namespace    https://raw.githubusercontent.com/LeMuletOgame/test2/main/test.js
 // @version      0.1
 // @description  when sending expedition don't check available mission with a request but inject an good enough answer to unlock the expe mission and the send button.
 // @author       Le Mulet
